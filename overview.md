@@ -1,6 +1,5 @@
-![Greetings from Gadgetzan](cover.jpg){.size-cover}
-
 # Introduction
+![Gadgetzan Gazette](.references/images/gadgetzan-gazette.jpg =250x){.float-right}
 Rising out of the northern deserts, a vibrant city, stands against the blistering heat. Gagetzan is the capital city for business and trade to artisans of any race.
 
 Some of the best engineers, miners, and alchemists ply their trade here. The people here believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any large-scale conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan.
@@ -23,11 +22,12 @@ City-based adventures can be challenging to run. especially if your player chara
 - Adventurers who are invested in the city are less likely to want to leave it. As your players flesh out their characters' backgrounds, encourage them to establish roots in Gadgetzan. A good Gadgetzan adventure further invests the characters by awarding them property in the city and giving them opportunities to join local factions and guilds.
 
 ### Breaking the Law
+![Crystal Runner](.references/images/crystal-runner.jpg =250x){.float-right}
 Gadgetzan is a city of firm laws and swift justice. Adventurers hell-bent on slaughter and plunder won't fare well in the City of Splendors. The punishments for assault, arson, theft, and murder are severe, regardless of the reason for the crime.
 
 Characters who overtly engage in criminal behavior are quickly cornered and arrested by members of the City Watch. Those charged with committing a crime are brought before a magister to be judged. Advocates might intercede on behalf of the characters if they have allied themselves with influential NPCs and factions.
 
-Given how strictly laws are enforced in Gadgetzan, it's possible that the adventure could end with one or more of the characters being exiled, sentenced to several years of hard labor, imprisoned, or put to death. If that's how their adventure ends, so be it. Hopefully, your next group will fare better.
+Gadgetzan has a growing crime problem and, as such, its laws are strictly enforced. It's possible that the adventure could end with one or more of the characters being exiled, sentenced to several years of hard labor, imprisoned, or put to death. If that's how their adventure ends, so be it. Hopefully, your next group will fare better.
 
 ### Getting About
 Gadgetzan is a city of broad boulevards that thrum with traffic. All day and well into the night, a bewildering melee of wagons, carts, horse and pony riders, carriages, buggies, hire-coaches, and automobiles surge through its major thoroughfares. Fortunately, most roads are flanked by paved sidewalks that give pedestrians plenty of space, and most of the widest roads have raised dividers that allow an individual crossing a street a safe space to step out of the fray and wait for traffic to pass.

@@ -1,4 +1,4 @@
-## City Districts
+## Districts
 The city of Gadgetzan is organized into distrits. Each district has its own histories, traditions and services. Some services can only be found in certain districts and even then characters may need the help of friendly NPCs to introduce them to certain, seedier, markets.
 
 ### Govern District
