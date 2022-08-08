@@ -1,6 +1,7 @@
-### Chase Complications
+## Chase Complications
 In addition to the penalty described for each complication, the characters' quarry also get a little further away with each failure.
 
+### Chase Complications
 | d10 | Type            | Complication                                                                                                           | DC | Ability Test                                   | Penalty                                 |
 |-----|-----------------|------------------------------------------------------------------------------------------------------------------------|----|------------------------------------------------|-----------------------------------------|
 | 1   | Hazard          | A hole, crevice, broken ground, slippery floor, or unseen obstacle                                                     | 10 | Dexterity (Acrobatics) or Strength (Athletics) | 1d4 bludgeoning damage                  |

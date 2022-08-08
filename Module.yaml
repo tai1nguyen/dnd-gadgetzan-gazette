@@ -1,11 +1,11 @@
 id: 61fdc2a6-22da-49dd-ab9c-97af383b5cbb
 name: Gadgetzan Gazette
 slug: gadgetzan-gazette
-description: TBD
+description: Campaign setting for adventures in the bustling city of Gadgetzan.
 author: Tai Nguyen
 code: gaz
 cover: open-book.jpg
-version: 4
+version: 1
 auto-increment-version: true
 ignore:
   - README.md
