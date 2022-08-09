@@ -8,8 +8,10 @@ The Dark Talons are a mercenary company made of up dishonorable castaways from n
 #### Goals
 The Dark Talons are a band of warriors through and through, they want nothing more than to perfect their murderous art.
 
-#### Services
-- Adventurers who join or gain the support of the Dark Talons may request a member attempt to buy off or quietly dispose of individuals who threaten them.
+#### Support Actions
+- Adventurers may request a member attempt to buy off or quietly dispose of individuals who threaten them.
+
+- The adventurers receive small, unmarked black pouches ofcoins from an anonymous source.
 
 ### Order of the Lantern
 Primarily operating out of the Govern District, the Order are comprised of individuals who advance through the City Watch and have proven their loyalty to the city. They are the peacekeepers and defenders of Gadgetzan. Lately, with the influence of more dubious parties in Gadgetzan, even these, normally honest, paragons of duty have seen their morals tested by the temptations of coin.
@@ -17,8 +19,10 @@ Primarily operating out of the Govern District, the Order are comprised of indiv
 #### Goals
 Defender of order and a bastion of light in the darkness, the Order of the Lantern seek to eradicate all evil and corruption they see, whatever the costs.
 
-#### Services
-- Adventurers who join or gain the support of the Order may request the aid of a respected and powerful member.
+#### Support Actions
+- Adventurers may request the aid of a respected and powerful member.
+
+- City Watch officials are notified that the characters are on "official business" for the Order and instructed to provide support whenever they can.
 
 ### Makers Collective
 A representing body for the numerous artisan guilds in Gadgetzan, the Makers Collective offers all registered artisan guilds, no matter the size, a voice in matters that after commerence and trade. The Collective works in partnership with the governing bodies of Gadgetzan to ensure that peace and prosperty continue to blossom in the City of Splendor.
@@ -26,8 +30,10 @@ A representing body for the numerous artisan guilds in Gadgetzan, the Makers Col
 #### Goals
 The Makers Collective act on behalf of all guilds within its membership, as such the group will do whatever it can to ensure nothing gets in the way of its members' prosperity.
 
-#### Services
-- Adventurers who join or gain the support of the Collective may request monetary help in the ways of unmarked black pouches from an anonymous source.
+#### Support Actions
+- If the adventurers are accosted and overwhelmed, one or more Collective members come to their rescue.
+
+- The Collective makes common and uncommon potions and scrolls available to the adventurers at a reduced or deferred cost depending on the circumstances.
 
 ### Guild of Dungeoneers
 Dungeoneers perform a wide array of jobs. These jobs can range from exploring long lost tombs to resucing someone's cat from a treant. The Guild of Dungeoneers provides assistance to any individual that seeks it. Often times, its member can be seen under the employ of other factions as well as businesses within the districts. The flexiblity of the Dungeoneers makes them a wild card for the political climate of Gadgetzan. Though they claim to always help those in need, it is normally the size of the victims' coffers that determine the quality of the help rendered.
@@ -35,5 +41,7 @@ Dungeoneers perform a wide array of jobs. These jobs can range from exploring lo
 #### Goals
 The Guild of Dungeoneers are collectors of rare and priceless artifacts want only to grow their collection. They use the guise of the "peoples' champion" to gather information on and acquire the most obscure and remote treasures.
 
-#### Services
-- Adventurers who join or gain the support of the Dungeoneers can request support in the form of a magical item with limited uses.
+#### Support Actions
+- Adventurers can request support in the form of a magical item with limited uses.
+
+- The guild grants access to secret tunnels and safe houses (hidden cellars) underneath Gadgetzan.
