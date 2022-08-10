@@ -1,6 +1,6 @@
 # Introduction
 ![Gadgetzan Gazette](references/images/gadgetzan-gazette.jpg =200x){.float-right}
-Rising out of the northern deserts, a vibrant city, stands against the blistering heat. Gagetzan is the capital city for business and trade to artisans of any race.
+Rising out of the northern deserts, a vibrant city, stands against the blistering heat. Gagetzan is the capital of business and trade to artisans and merchants of any race.
 
 Some of the best engineers, miners, and alchemists ply their trade here. The people here believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any large-scale conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan.
 
@@ -15,11 +15,12 @@ With the construction of its new port, trade boomed in Gadgetzan. The influx of 
 
 ## Life in Gadgetzan
 City-based adventures can be challenging to run. especially if your player characters are inclined to wander. Keeping the characters in Gadgetzan, where the action is, requires that they feel at home. To that end, here are some points to keep in mind:
+
 - Almost anything can be bought or sold in Gadgetzan. There's no need for adventurers to shop elsewhere.
 
 - Gadgetzans generally hold adventurers in high regard, given that many of the city's most esteemed citizens are former adventurers and that the city has been saved countless times by adventurers over the years.
 
-- Adventurers who are invested in the city are less likely to want to leave it. As your players flesh out their characters' backgrounds, encourage them to establish roots in Gadgetzan. A good Gadgetzan adventure further invests the characters by awarding them property in the city and giving them opportunities to join local factions and guilds.
+- Adventurers who are invested in the city are less likely to want to leave it. As your players flesh out their characters' backgrounds, encourage them to establish roots in Gadgetzan. A good city-based adventure further invests the characters by awarding them property in the city and giving them opportunities to join local factions and guilds.
 
 ### Breaking the Law
 ![Jailed Sorceress](references/images/jailed-sorceress.jpg =200x){.float-right}
@@ -44,7 +45,9 @@ Another amenity soon appreciated by visitors is Gadgetzan's water system. With p
 
 Let us not forget that no city in the world is as literate as Gadgetzan. Its literary guilds offer free instruction in reading to all who desire it, and the city has over thirty publishers of broadsheets in addition to chapbook printers and book publishers. Large paper advertisements are plastered onto alley walls, and smaller ones are passed out by those hired by businesses to trumpet their services. Printed menus can be found posted in the windows of most eateries and are handed out to those who dine within.
 
-Lastly, Gagetzan is a technological hub. All of these amenities are ony possible due to the people that live within its walls. With artisans, builders, inventors, and sorccers from all walks of life rubbing shoulders together, it is no surprise that the lively city is home to all manner of inventions. From steam powered automobiles to the hydraulic printing presses employed by advertisment agencys and publishers alike, Gadgetzan's brilliant inventors are constantly crafting wonders that elevate the city and its citizenry to new heights!
+Lastly, Gagetzan is a technological hub. All of these amenities are ony possible due to the people that live within its walls. With artisans, builders, inventors, and sorcerers from all walks of life rubbing shoulders together, it is no surprise that the lively city is home to all manner of inventions. From steam powered automobiles to the hydraulic smelters used by the crafting guilds, Gadgetzan's brilliant inventors are constantly crafting wonders that elevate the city and its citizenry to new heights!
+
+It is safe to say that anyone's stay in Gadgetzan will be an enjoyable and memeber one.
 
 ## Gadgetzan City Map
 ![Map of Gadgetzan](references/images/map-gadgetzan.svg)

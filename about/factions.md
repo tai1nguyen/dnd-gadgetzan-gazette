@@ -1,7 +1,9 @@
 ## Factions
-Various factions have roots in Gadgetzan. Each faction vying for more power and influence over the direction of the city's development. Every organization in Gadgetzan can conflict with one another or work together towards a signular goal.
+Various factions have roots in Gadgetzan. Each faction vying for more power and influence over the direction of the city's development. Every organization in Gadgetzan can, conflict with one another or work together towards a signular goal.
 
 Factions provide different benefits to adventurers they view as an asset to their cause. You decide the extent to which a faction will assist the adventurers, based on each faction's perception of how important or valuable the adventurers are.
+
+![Assassin Contract](../references/images/assassin-contract.jpg)
 
 ### Order of the Lantern
 Primarily operating out of the Govern District, the Order are comprised of individuals who advance through the City Watch and have proven their loyalty to the city. They are the peacekeepers and defenders of Gadgetzan. Lately, with the influence of more dubious parties in Gadgetzan, even these, normally honest, paragons of duty have seen their morals tested by the temptations of coin.

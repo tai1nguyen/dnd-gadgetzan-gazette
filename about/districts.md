@@ -1,6 +1,8 @@
 ## Districts
 The city of Gadgetzan is organized into distrits. Each district has its own histories, traditions and services. Some services can only be found in certain districts and even then characters may need the help of friendly NPCs to introduce them to certain, seedier, markets.
 
+![Rooftops](../references/images/rooftops.jpg)
+
 ### Govern District
 The Govern District is the heart and mind of Gadgetzan, if not its soul. It houses the city's military forces, courts, and government. Many other buildings in the district are given over to city business, including several courts for magisters and the barracks of the City Guard. So many of the districts's structures are offices and meeting halls for business owners, solicitors, publishers, and the like that the Govern District has the smallest resident population of all the districts.
 

@@ -1,4 +1,5 @@
 ## General Rule Of Law
+![Gavel](../references/images/gavel.jpg =200x){.float-right}
 Gadgetzan is no village led by hidebound hierarchs or petty fiefdom ruled by the whim of a warlord. It is a city of laws molded by the spirit of justice. As a rule, you can trust members of the City Watch to do their duty diligently, and you can expect that the city's magisters will be fair. If you have cause to come before the Masked Lords or the Open Lords themselves, rest assured that if your cause be just, justice will be done. If, however, you find yourself in the wrong, know that though it might take time to weigh that wrong, the hammer of justice will fall- and it will be wielded by Gadgetzan with a vengeance.
 
 Individuals accustomed to the rough-and-tumble life in much of the North are often surprised by the fact that Gedgetzans go about unarmed and unarmored. Yet Gadgetzan doesn't have any law that forbids carrying weapons or armor. Instead, it has a culture ofcivility that makes such behavior unnecessary.

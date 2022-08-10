@@ -3,6 +3,8 @@ Shops are cruical for any urban environment. They given adventurers a place to s
 
 Like any busy port city, Gadgetzan is filled to the brim with all sorts of shops. Below are examples of local shops, their owners and services. Each shop can be used as an inspiration for custom shops or placed directly into any district of the city, as is.
 
+![Pint-Size Potion](../references/images/pint-size-potion.jpg )
+
 ### The Bent Nail
 A small wooden sign above this shop's main door is bare except for a large, bent nail sticking out of it. The front room contains displays of ornate wooden furniture, as well as a selection of bows and crossbows. The wall behind the counter is lined with rows of finely carved wooden canes, quarterstaffs, and shields. **Talisolvanar "Tally" Fellbranch**, the owner and chief artisan of the Bent Nail, is a male half-elf carpenter and woodcarver.
 

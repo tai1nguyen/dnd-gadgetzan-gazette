@@ -8,7 +8,7 @@ Firearms are a new and volatile technology, and as such bring their own unique s
 
 **Explosive.** Upon a hit, everything within 5 ft of the target must make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 fire damage. If the weapon misses, the ammunition fails to detonate, or bounces away harmlessly before doing so.
 
-#### Firearms Profiles
+#### Firearms
 | Name            | Cost    | Damage        | Range     | Properties                      |
 |-----------------|---------|---------------|-----------|---------------------------------|
 | Pistol          | 150g    | 1d10 piercing | (60/240)  | Reload 4, misfire 1             |
@@ -17,10 +17,7 @@ Firearms are a new and volatile technology, and as such bring their own unique s
 | Blunderbuss     | 300g    | 2d8 piercing  | (15/60)   | Reload 1, misfire 2             |
 | Hand Mortar     | Crafted | 2d8 fire      | (30/60)   | Reload 1, misfire 3, explosive  |
 
-### Ammunition
-All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, if materials are gathered, you can craft ammunition yourself using your Tinker’s Tools at half the cost. Each firearm uses its own unique ammunition and is generally sold or crafted in batches listed below next to the price.
-
-#### Firearms Weight & Ammo
+#### Weights
 | Name            | Weight | Ammo      |
 |-----------------|--------|-----------|
 | Pistol          | 3 lb.  | 4 gp (20) |
@@ -28,3 +25,15 @@ All firearms require ammunition to make an attack, and due to their rare nature,
 | Repeating Rifle | 10 lb. | 5 gp (20) |
 | Blunderbuss     | 10 lb. | 5 gp (5)  |
 | Hand Mortar     | 10 lb. | 10 gp (1) |
+
+### Ammunition
+All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, characters with the artisan background may craft ammunition. If materials are gathered, a character can craft ammunition themsevles using Tinker’s Tools at half the cost. Each firearm uses its own unique ammunition and is generally sold or crafted in batches listed below next to the price.
+
+#### Ammunition
+| Name            | Ammo      |
+|-----------------|-----------|
+| Pistol          | 4 gp (20) |
+| Rifle           | 5 gp (20) |
+| Repeating Rifle | 5 gp (20) |
+| Blunderbuss     | 5 gp (5)  |
+| Hand Mortar     | 10 gp (1) |
