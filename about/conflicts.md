@@ -1,5 +1,5 @@
 ## Conflicts
-![Riot](../references/images/secret-keeper.jpg =250x){.float-right}
+![Riot](../references/images/secretkeeper.jpg =250x){.float-right}
 With the influx of traders, merchants and businessmen both respectable and otherwise, as well as the daily arrival of more fortune-seekers, Gadgetzan has never been more lively. Of course, this uptick in activity hasn’t been without its downsides. Rival organizations now battle for control of the city, with the two biggest offenders being the Guild of Dungeoneers and the Dark Talons.
 
 Normally these conflicts would have been resolved non-violently, as bloodshed only hindered both party's abilities, but lately these clashes have been more brazen and out in the open. No one is quite sure what sparked the dispute between the two organzations but the feud is only deepening.
