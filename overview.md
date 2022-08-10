@@ -4,10 +4,10 @@ Rising out of the northern deserts, a vibrant city, stands against the blisterin
 
 Some of the best engineers, miners, and alchemists ply their trade here. The people here believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any large-scale conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan.
 
-The **Gadgetzan Gazette** campaign setting module provides information and reference material on the busy desert city of Gadgetzan. Characters adventuring through it will have to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the rabble or an enemy of one of the ruling gangs. Anything is possible in Gadgetzan, the City of Splendor.
+The **Gadgetzan Gazette** campaign setting module provides information and reference material on the busy desert city of Gadgetzan. Characters adventuring through it will have to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the rabble or an enemy of one of the ruling gangs. Anything is possible in Gadgetzan, the City of Opportunity.
 
 ## Background
-The bustling town of Gadgetzan has ushered in a new era of trade, but the city’s success has led to its unfortunate occupation by some rather unruly denizens, each with their own agendas. Crime families run the streets, each led by a powerful figurehead pulling the strings from the shadows.
+The bustling town of Gadgetzan has ushered in a new era of trade, but the city’s success has led to its unfortunate occupation by some rather unruly denizens, each with their own agendas. Crime families vie with the City Watch for control of the streets, each led by a powerful figurehead pulling the strings from the shadows.
 
 Nestled deep in the desert, the port town of Gadgetzan was a haven for shady dealings and rule-bending trade, its locals and visitors showing no favoritism toward any government body outside its own.
 
@@ -17,12 +17,12 @@ With the construction of its new port, trade boomed in Gadgetzan. The influx of 
 City-based adventures can be challenging to run. especially if your player characters are inclined to wander. Keeping the characters in Gadgetzan, where the action is, requires that they feel at home. To that end, here are some points to keep in mind:
 - Almost anything can be bought or sold in Gadgetzan. There's no need for adventurers to shop elsewhere.
 
-- Gadgetzanians generally hold adventurers in high regard, given that many of the city's most esteemed citizens are former adventurers and that the city has been saved countless times by adventurers over the years.
+- Gadgetzans generally hold adventurers in high regard, given that many of the city's most esteemed citizens are former adventurers and that the city has been saved countless times by adventurers over the years.
 
 - Adventurers who are invested in the city are less likely to want to leave it. As your players flesh out their characters' backgrounds, encourage them to establish roots in Gadgetzan. A good Gadgetzan adventure further invests the characters by awarding them property in the city and giving them opportunities to join local factions and guilds.
 
 ### Breaking the Law
-![Crystal Runner](references/images/crystal-runner.jpg =200x){.float-right}
+![Jailed Sorceress](references/images/jailed-sorceress.jpg =200x){.float-right}
 Gadgetzan is a city of firm laws and swift justice. Adventurers hell-bent on slaughter and plunder won't fare well in the City of Opportunity. The punishments for assault, arson, theft, and murder are severe, regardless of the reason for the crime.
 
 Characters who overtly engage in criminal behavior are quickly cornered and arrested by members of the City Watch. Those charged with committing a crime are brought before a magister to be judged. Advocates might intercede on behalf of the characters if they have allied themselves with influential NPCs and factions.

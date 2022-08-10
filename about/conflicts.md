@@ -2,7 +2,7 @@
 ![Riot](../references/images/secretkeeper.jpg =250x){.float-right}
 With the influx of traders, merchants and businessmen both respectable and otherwise, as well as the daily arrival of more fortune-seekers, Gadgetzan has never been more lively. Of course, this uptick in activity hasn’t been without its downsides. Rival organizations now battle for control of the city, with the two biggest offenders being the Guild of Dungeoneers and the Dark Talons.
 
-Normally these conflicts would have been resolved non-violently, as bloodshed only hindered both party's abilities, but lately these clashes have been more brazen and out in the open. No one is quite sure what sparked the dispute between the two organzations but the feud is only deepening.
+Normally these conflicts would have been resolved non-violently, as bloodshed only hinder both party's abilities, but lately these clashes have been more brazen and out in the open. No one is quite sure what sparked the dispute between the two organzations but the feud is only deepening.
 
 The City Watch is doing whatever it can to stop the volience. Fearing for the safety of the populace and the public image of Gadgetzan, the Watch has called upon the Order of the Latern to root out the source of this evil.
 
@@ -17,8 +17,11 @@ The Talons, on the other hand are more descrete in their approach to silencing o
 
 The Guild of Dungeoneers are different in that they have to balance the act of explotative collector with the persona of the "peoples' champion". In truth, most Dungeoneers are just regular adventurers hoping to make a name for themselves by accoplishing heroic deeds. These opportunties to display feats of heroism come courtesy of the guild. Most guild members are oblivous to the seedier side of their organization and ranking members of the guild use them as enforcers and collectors through carefully manipulated quests.
 
-An Adventurer could be tasked with destorying a family of spectres, not knowing that doing so leaves the ancient tome they were guarding free for looters. Or the adventuerer might be tasked with delivering a package to a high ranking nobleman only to have the package explode upon receipt, killing both the courier and its target.
+An adventurer could be tasked with destorying a family of spectres, not knowing that doing so leaves the ancient tome they were guarding free for looters. Or the adventuerer might be tasked with delivering a package to a high ranking nobleman only to have the package explode upon receipt, killing both the courier and its target.
 
+### Tools of the Trade
 Unlike the Order of the Latern, which has the public support of the government, both the Talons and Dungeoneers are not above using smaller gangs as foot soldiers in their ongoing conflict. Most clashes that are in the public eye are the result of this.
+
+That's not to say that the warring factions are above utilizing brides and intimidation to coerce someone into complying. Quite the contrary as they will all use whatever is at hand to accomplish their goals.
 
 ![joyride](../references/images/joyride.jpg)
