@@ -18,16 +18,18 @@ Firearms are a new and volatile technology, and as such bring their own unique s
 | Hand Mortar     | Crafted | 2d8 fire      | (30/60)   | Reload 1, misfire 3, explosive  |
 
 #### Weights
-| Name            | Weight | Ammo      |
-|-----------------|--------|-----------|
-| Pistol          | 3 lb.  | 4 gp (20) |
-| Rifle           | 10 lb. | 5 gp (20) |
-| Repeating Rifle | 10 lb. | 5 gp (20) |
-| Blunderbuss     | 10 lb. | 5 gp (5)  |
-| Hand Mortar     | 10 lb. | 10 gp (1) |
+| Name            | Weight |
+|-----------------|--------|
+| Pistol          | 3 lb.  |
+| Bolt Rifle      | 10 lb. |
+| Repeating Rifle | 10 lb. |
+| Blunderbuss     | 10 lb. |
+| Hand Mortar     | 10 lb. |
 
-### Ammunition
-All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, characters with the artisan background may craft ammunition. If materials are gathered, a character can craft ammunition themsevles using Tinker’s Tools at half the cost. Each firearm uses its own unique ammunition and is generally sold or crafted in batches listed below next to the price.
+### Ammunition and Crafting
+All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, characters with the artisan background may craft ammunition.
+
+If materials are gathered, a character can craft ammunition themsevles using Tinker’s Tools at half the cost. Each firearm uses its own unique ammunition and is generally sold or crafted in batches listed below next to the price.
 
 #### Ammunition
 | Name            | Ammo      |

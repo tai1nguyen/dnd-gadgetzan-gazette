@@ -1,5 +1,5 @@
 ## Conflicts
-![Riot](../references/images/secretkeeper.jpg =250x){.float-right}
+![Secretkeeper](../references/images/secretkeeper.jpg =250x){.float-right}
 With the influx of traders, merchants and businessmen both respectable and otherwise, as well as the daily arrival of more fortune-seekers, Gadgetzan has never been more lively. Of course, this uptick in activity hasn’t been without its downsides. Rival organizations now battle for control of the city, with the two biggest offenders being the Guild of Dungeoneers and the Dark Talons.
 
 Normally conflicts would have been resolved non-violently, as bloodshed only hinder both party's abilities, but lately their clashes have been more brazen and expansive. No one is quite sure what sparked the dispute between the two organizations but the feud is only deepening.
@@ -22,6 +22,6 @@ An adventurer could be tasked with destorying a family of spectres, not knowing 
 ### Tools of the Trade
 Unlike the Order of the Lantern, which has the public support of the government, both the Talons and Dungeoneers are not above using smaller gangs as foot soldiers in their ongoing conflict. Most clashes that are in the public eye are the result of this.
 
-That's not to say that the warring factions are above utilizing brides and intimidation to coerce someone into complying. Quite the contrary, as both factions will use whatever is at hand to accomplish their goals.
+That's not to say that these warring factions are above utilizing brides and intimidation to coerce someone into complying. Quite the contrary, as both factions will use whatever is at hand to accomplish their goals. A popular implement, as it lends an air of deniability, are adventurers. Most adventurers found in Gadgetzan can be enlisted with the simple lure of a reward and a good deed to be done.
 
 ![joyride](../references/images/joyride.jpg)
