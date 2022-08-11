@@ -1,9 +1,9 @@
 ## Shops
-Shops are cruical for any urban environment. They given adventurers a place to spend their coin and learn about the world.
+Shops are cruical for any urban environment. They give adventurers a place to spend their coin and learn about the world.
 
 Like any busy port city, Gadgetzan is filled to the brim with all sorts of shops. Below are examples of local shops, their owners and services. Each shop can be used as an inspiration for custom shops or placed directly into any district of the city, as is.
 
-![Pint-Size Potion](../references/images/pint-size-potion.jpg )
+![Pint-Size Potion](../references/images/pint-size-potion.jpg)
 
 ### The Bent Nail
 A small wooden sign above this shop's main door is bare except for a large, bent nail sticking out of it. The front room contains displays of ornate wooden furniture, as well as a selection of bows and crossbows. The wall behind the counter is lined with rows of finely carved wooden canes, quarterstaffs, and shields. **Talisolvanar "Tally" Fellbranch**, the owner and chief artisan of the Bent Nail, is a male half-elf carpenter and woodcarver.
@@ -13,7 +13,7 @@ Tally sells wooden weapons and shields at normal cost. He also crafts and sells 
 
 ### Fala's Potent Potions
 
-**Fala Lefaliir**, an herbalist and a member of the Guild of Apothecaries and Physicians, operates out of this stately, three-story town house, the third floor of which has been converted into a greenhouse. Its translucent glass walls allow anyone on the street to see the rain- bow of flowers blossoming within. Fala Lefaliir is an outgoing wood elf with long, braided hair.
+**Fala Lefaliir**, an herbalist and a member of the Guild of Apothecaries and Physicians, operates out of this stately, three-story town house, the third floor of which has been converted into a greenhouse. Its translucent glass walls allow anyone on the street to see the rainbow of flowers blossoming within. Fala Lefaliir is an outgoing wood elf with long, braided hair.
 
 #### Services
 In addition to nonmagical herbal remedies, Fala sells potions of the types listed in the table below. Fala keeps 1d6 vials of each potion in locked cabinets behind the shop counter.
@@ -27,7 +27,7 @@ In addition to nonmagical herbal remedies, Fala sells potions of the types liste
 | Potion of water breathing   | 250 gp |
 
 ### The Private Eye
-This private detective's business is unremarkable on the outside, its only distinguishing mark an black-and-white sign featuring an ominous eye. Inside is a regal apartment dimly lit by flickering oil lamps. The door is locked, and visitors must knock or ring the bell before being let in.
+This private detective's business is unremarkable on the outside, its only distinguishing mark a black-and-white sign featuring an ominous eye. Inside is a regal apartment dimly lit by flickering oil lamps. The door is locked, and visitors must knock or ring the bell before being let in.
 
 They are met by **Vincent Trench**, a goblin detective and the owner of the Private Eye. He speaks concisely, dresses in a sharp suit, and smokes a slim pipe.
 
@@ -44,7 +44,7 @@ The genasi couple sells all standard metal weapons, armor, and shields at normal
 ### Book Wyrm
 The front of this bookstore is adorned with a charming sign of a gold dragon curled around a treasure hoard of books and scrolls. Inside, the shop is decorated with beautiful hardwood, and the earthy scent of old books permeates the air. The library fills two floors of this three-story building, and it somehow seems to contain more shelves than the building should be able to hold.
 
-The shop is managed by a short dragonborn of gold dragon ancestry named Rishaal the Page-Turner, who lives on the third floor
+The shop is managed by a short dragonborn of gold dragon ancestry named **Rishaal the Page-Turner**, who lives on the third floor
 
 #### Services
 The shop contains books of all sorts. In addition, Rishaal has a small collection of spellbooks and allows wizards to copy spells from them at the cost listed in the table below. He can scribe any of these spells as a spell scroll but charges twice the listed cost for this service.

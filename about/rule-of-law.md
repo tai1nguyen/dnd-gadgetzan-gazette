@@ -2,7 +2,7 @@
 ![Gavel](../references/images/gavel.jpg =200x){.float-right}
 Gadgetzan is no village led by hidebound hierarchs or petty fiefdom ruled by the whim of a warlord. It is a city of laws molded by the spirit of justice. As a rule, you can trust members of the City Watch to do their duty diligently, and you can expect that the city's magisters will be fair. If you have cause to come before the Masked Lords or the Open Lords themselves, rest assured that if your cause be just, justice will be done. If, however, you find yourself in the wrong, know that though it might take time to weigh that wrong, the hammer of justice will fall- and it will be wielded by Gadgetzan with a vengeance.
 
-Individuals accustomed to the rough-and-tumble life in much of the North are often surprised by the fact that Gedgetzans go about unarmed and unarmored. Yet Gadgetzan doesn't have any law that forbids carrying weapons or armor. Instead, it has a culture ofcivility that makes such behavior unnecessary.
+Individuals accustomed to the rough-and-tumble life in much of the North are often surprised by the fact that Gedgetzans go about unarmed and unarmored. Yet Gadgetzan doesn't have any law that forbids carrying weapons or armor. Instead, it has a culture of civility that makes such behavior unnecessary.
 
 Businesses and individuals do employ armed guards, but except for nobles or foreign envoys, few people travel about the city with such protection. As such, the sight of armed and armored individuals walking the streets who aren't in the livery of the city or one of its noble houses inspires caution in most Gadgetzans. Folk assume that you wouldn't bother lugging around such equipment unless you either intend violence or expect that it might soon be visited upon you.
 
@@ -27,6 +27,6 @@ Small squads head out from the watch posts on daily and nightly rounds of the ci
 ![Quest Board](../references/images/quest-board.jpg)
 
 ## Corruption
-Like any other city, crime is a common occurance in the day to day life of the city. Unlike other cities, Gadgetzan's recent boom in economic wealth have also brought with it an increase in criminal activities.
+Like any other city, crime is a common occurance in the day to day life of the people that reside therein. Unlike other cities, Gadgetzan's recent boom in economic wealth have also brought with it an increase in criminal activities.
 
-As more bad actors make a presence on the streets, the corrupting force they exude have begun to affect the once noble City Watch and Watchful Order. There have been whispers of some members known to look the other way to balanant abuses of the law for a quick coin.
+As more bad actors make a presence on the streets, the corrupting force they exude have begun to affect the once noble City Watch and Watchful Order. There have been whispers of some members known to have looked the other way to balanant abuses of the law for a quick coin.
