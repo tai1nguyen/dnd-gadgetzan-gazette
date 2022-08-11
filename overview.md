@@ -36,7 +36,7 @@ Gadgetzan is a city of broad boulevards that thrum with traffic. All day and wel
 Thanks to the many guilds, Gadgetzan has a remarkable custom of labeling its streets, and even many of its alleyways and courts. The method of identification varies by district and neighborhood (including brass plates, carvings in stone, and stencil-painted wooden signs), but street names are typically displayed on the corners of buildings at intersections, roughly a dozen feet above ground. The name of the road you travel on will be on the wall nearest, while the name of the crossing road will be around the corner.
 
 ### City Amenities
-![Cog Master](references/images/cogmaster.jpg =200x){.float-right}
+![Cogmaster](references/images/cogmaster.jpg =200x){.float-right}
 In most other towns and cities, you'll start with an early-morning stumble on the stairs as you carry your night soil down to deposit it outside. But in Gadgetzan, many buildings are connected directly to the sewers. Public facilities for those out and about can be found all around the districts' largest plazas.
 
 Also notice how clean the streets are kept. This upkeep is due in large part to the hard work of the many cleaning guilds and their oozes. These groups can be seen working their brooms and carts at every hour of the day and for a few hours after dark-all over the city, removing not just animal dung but other refuse. This service is free to all, paid for by taxes rendered to the city.
