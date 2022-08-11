@@ -12,8 +12,8 @@ Firearms are a new and volatile technology, and as such bring their own unique s
 | Name            | Cost    | Damage        | Range     | Properties                      |
 |-----------------|---------|---------------|-----------|---------------------------------|
 | Pistol          | 150g    | 1d10 piercing | (60/240)  | Reload 4, misfire 1             |
-| Rifle           | 300g    | 1d12 piercing | (120/480) | Two-handed, reload 1, misfire 2 |
-| Repeating Rifle | 400g    | 1d10 piercing | (80/320)  | Reload 6, misfire 2             |
+| Bolt Rifle      | 300g    | 1d12 piercing | (120/480) | Two-handed, reload 1, misfire 2 |
+| Repeating Rifle | 400g    | 1d10 piercing | (80/320)  | Two-handed, reload 6, misfire 2 |
 | Blunderbuss     | 300g    | 2d8 piercing  | (15/60)   | Reload 1, misfire 2             |
 | Hand Mortar     | Crafted | 2d8 fire      | (30/60)   | Reload 1, misfire 3, explosive  |
 
@@ -35,7 +35,7 @@ If materials are gathered, a character can craft ammunition themsevles using Tin
 | Name            | Ammo      |
 |-----------------|-----------|
 | Pistol          | 4 gp (20) |
-| Rifle           | 5 gp (20) |
+| Bolt Rifle      | 5 gp (20) |
 | Repeating Rifle | 5 gp (20) |
 | Blunderbuss     | 5 gp (5)  |
 | Hand Mortar     | 10 gp (1) |
