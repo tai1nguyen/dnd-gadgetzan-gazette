@@ -4,10 +4,10 @@ Rising out of the northern deserts, a vibrant city, stands against the blisterin
 
 Some of the best engineers, miners, and alchemists ply their trade here. The people here believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any large-scale conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan.
 
-The **Gadgetzan Gazette** campaign setting module provides information and reference material on the busy desert city of Gadgetzan. Characters adventuring through it will have to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the rabble or an enemy of one of the ruling gangs. Anything is possible in Gadgetzan, the City of Opportunity.
+The **Gadgetzan Gazette** campaign module provides information and reference material for running a game in the busy desert city of Gadgetzan. Characters adventuring through it will have to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the riff and rabble or become an enemy of one of the ruling gangs. Anything is possible in Gadgetzan, the City of Opportunity.
 
 ## Background
-The bustling town of Gadgetzan has ushered in a new era of trade, but the city’s success has led to its unfortunate occupation by some rather unruly denizens, each with their own agendas. Crime families vie with the City Watch for control of the streets, each led by a powerful figurehead pulling the strings from the shadows.
+The bustling town of Gadgetzan has ushered in a new era of trade, but the city’s success has led to its unfortunate occupation by some rather unruly denizens, each with their own agendas. Criminal organizations and crime families alike vie with the City Watch for control of the streets, each led by a powerful figurehead pulling the strings from the shadows.
 
 Nestled deep in the desert, the port town of Gadgetzan was a haven for shady dealings and rule-bending trade, its locals and visitors showing no favoritism toward any government body outside its own.
 

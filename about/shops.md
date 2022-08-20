@@ -1,7 +1,7 @@
 ## Shops
-Shops are cruical for any urban environment. They give adventurers a place to spend their coin and learn about the world.
+Stores in Gadgetzan are owned by independent shopkeepers as well as affliated guild memebers. Most shops will always have a patron or two already browsing and conversing before the characters arrive. As such, merchants and their place of business are an ideal staging area for the characters to gain knowledge of the current events happening throughout the city and region.
 
-Like any busy port city, Gadgetzan is filled to the brim with all sorts of shops and stores. Below are examples of local shops, their owners and services. Each shop listed can be used as an inspiration for custom places of business or placed directly into any district of the city, as is.
+Like any busy port city, Gadgetzan is filled to the brim with all sorts of businesses. Below are examples of local shops, their owners and services. Each shop listed can be used as an inspiration for custom places of business or placed directly into any district of the city, as is.
 
 ![Item Shop](../references/images/item-shop.jpg)
 

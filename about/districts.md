@@ -1,5 +1,5 @@
 ## Districts
-The city of Gadgetzan is organized into distrits. Each district has its own histories, traditions and services. Some services can only be found in certain districts and even then characters may need the help of friendly NPCs to introduce them to certain, seedier, markets.
+The city of Gadgetzan is organized into districts. Each district has its own histories, traditions and services. Some services can only be found in certain districts and even then characters may need the help of friendly NPCs to introduce them to certain, seedier, markets.
 
 ![Rooftops](../references/images/rooftops.jpg)
 
@@ -19,9 +19,9 @@ One can indulge in the finest halfling food here, enjoy the best singers of Cali
 The District hosts most of the traveling merchants who visit the city, and is made up of many enclaves, blocks, and streets primarily occupied by citizens who trace their ancestry to other realms.
 
 ### Trades District
-This district bustles day and night with activity, both on the street and on balcony walkways that run the length of blocks and are sometimes layered five stories high. Shop signs appear to leap out from buildings, whose sides a replastered with advertisements all vying for the attention of the eye. Clothing stores, jewelry stores, perfumeries, flower shops, cake shops, taverns, cafes, inns, boarding schools, offices-as long as it's not illegal, you can find it in the Trades District. But if you are looking for something illegal, the Trades District is likely the place to get that too.
+This district bustles day and night with activity, both on the street and on balcony walkways that run the length of blocks and are sometimes layered five stories high. Shop signs appear to leap out from buildings, whose sides a replastered with advertisements all vying for the attention of the eye. Clothing stores, jewelry stores, perfumeries, flower shops, cake shops, taverns, cafes, inns, boarding schools, offices- as long as it's not illegal, you can find it in the Trades District. But if you are looking for something illegal, the Trades District is likely the place to get that too.
 
-Do not do so too loudly, though. The City Watch has a heavy presence in this ward, in the form of both open patrols and officers working out of uniform.
+Do not do so too loudly, though. The City Watch has a heavy presence in this district, in the form of both open patrols and officers working out of uniform.
 
 ### Docks District
 Warehouses, poorhouses, and tenements dominate much of the area. Streets are steep throughout, and few have space alongside for pedestrians. Wandering through the district can be a bewildering journey without a guide. Except in the immediate vicinity of the piers, shop signs and advertising of any kind are rare, and warehouses and other businesses often have no sign at all. You either know where you are going and have reason to be there- or you are lost, and a likely mark for pickpockets or worse. This is the area where most of Gadgetzan's poorest and hardest working reside.
