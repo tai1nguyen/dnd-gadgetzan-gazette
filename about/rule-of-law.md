@@ -6,8 +6,10 @@ Individuals accustomed to the rough-and-tumble life in much of the North are oft
 
 Businesses and individuals do employ armed guards, but except for nobles or foreign envoys, few people travel about the city with such protection. As such, the sight of armed and armored individuals walking the streets who aren't in the livery of the city or one of its noble houses inspires caution in most Gadgetzans. Folk assume that you wouldn't bother lugging around such equipment unless you either intend violence or expect that it might soon be visited upon you.
 
-### The Mayor of Gadgetzan
-The Mayor of Gadgetzan is elected from the citizenry and operates with the city's best interests in mind. Residing in the imposing Castle Greymane, located within the Govern District, the current reigning mayor is a freebooter goblin named Gobbo Greenskin. The ingenuity that made him such a feared pirated is now used to protect Gadgetzen and its interests. Gobbo employs spies to track newcomers in the mighty city and those who are seen taking steps to put the wellbeing of the city before their own are often times rewarded. 
+#### The Mayor of Gadgetzan
+The Mayor of Gadgetzan is elected from the citizenry and operates with the city's best interests in mind. Residing in the imposing Castle Greymane, located within the Govern District, the current reigning mayor is a freebooter goblin named **Gobbo Greenskin**.
+
+The ingenuity that made him such a feared pirated is now used to protect Gadgetzen and its interests. Gobbo employs spies to track newcomers in the mighty city and those who are seen taking steps to put the wellbeing of the city before their own are often times rewarded. 
 
 ### The Watchful Order of Magists
 ![Crystal Runner](../references/images/crystal-runner.jpg =200x){.float-right}
@@ -17,6 +19,11 @@ Members of the Watchful Order are expected to render service to the city when ca
 
 Members of the Watchful Order form a more or less sociable association in the city, working together to
 keep an eye on any spellcasters who opt not to join their guild.
+
+#### The Blackstaff
+Blackstaff is a name given to the archmage of Blackstaff tower and leader of the Watchful Order. The Blackstaff is responsible for the organization of Gadgetzan's magical defenses and the monitoring of unregistered magic users. The current holder of the title of Blackstaff is a young tiefling named, **Valtari Inrissa**.
+
+A prodigy of the arcane arts, Valtari was appointed Blackstaff when the original holder of the title, and her master, was slain in a magical accident. Inexperienced in the politics of Gadgetzan, Valtari relies heavily on Utgur Platebane, of the Order of the Lantern, for advice and support.
 
 ### City Watch
 You can recognize any member of the City Watch by the uniform: a red-and-goldenrod doublet and a tall steel helmet. Each typically carries a long truncheon, a shortshord, and a buckler. Because most citizens in Gadgetzan don't bear weapons, these tools prove a more than ample deterrent to criminal activity. Members of the Watch typically don't carry crossbows or other weapons to attack at range, but running from the Watch -though it may be a time-honored tradition for local miscreants- rarely works out for newcomers to the city. The Watch know the streets they patrol and that area's residents better than you do, even if you stay in Gadgetzan for ten seasons.
