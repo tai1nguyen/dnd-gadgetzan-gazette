@@ -1,11 +1,11 @@
 ## Urban Encounters
 The streets of cities and large towns are often full of interesting people and sights. The table below provides a small sample of events that can happen while the characters are traveling through an urban environment.
 
-### Urban Encounters
+#### Urban Encounters
 | d20 | Encounters                                                                                                                                |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | A hooded figure bumps into a character, they apologize and quickly disappear into the crowd.                                                               |
-| 2   |  A golem carrying a platform drops off passenger nearby and waits for next fare. A board attached to the platform has a coin slot and details of prices.   |
+| 2   |  A golem carrying a platform drops off passenger nearby and waits for the next fare. A board attached to the platform has a coin slot and details of prices.   |
 | 3   |  A cultist with an imp wants people to sign up to insurance contracts.                                                                                     |
 | 4   |  A dryad from a small park is worried about a friend, a talking squirrel.                                                                                  |
 | 5   |  A gnome druid is selling amazing pies from a handcart. They have tastes that are hard to identify. One has a message concealed inside.                    |

@@ -1,7 +1,7 @@
 ## Generating Street Names
 Roll on the Street Names table first and then the Street Types table. Combine the results from both tables to generate a new street name.
 
-### Street Names
+#### Street Names
 | d20 | Name        |
 |-----|-------------|
 | 1   | Ash         |
@@ -25,7 +25,7 @@ Roll on the Street Names table first and then the Street Types table. Combine th
 | 19  | West Gate   |
 | 20  | East Gate   |
 
-### Street Types
+#### Street Types
 | d6 | Type   |
 |----|--------|
 | 1  | Way    |

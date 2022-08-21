@@ -11,7 +11,7 @@ If the attacking creatures deal different amounts of damage, assume that the cre
 
 This attack resolution system ignores critical hits in favor of reducing the number of die rolls. As the number of combatants dwindles, switch back to using individual die rolls to avoid situations where one side can't possibly hit the other.
 
-### Mob Attacks
+#### Mob Attacks
 | d20 Roll Needed | Attackers Needed for One to Hit |
 |-----------------|---------------------------------|
 | 1-5             | 1                               |

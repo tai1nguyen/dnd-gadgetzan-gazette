@@ -27,7 +27,7 @@ Firearms are a new and volatile technology, and as such bring their own unique s
 | Hand Mortar     | 10 lb. |
 
 ### Ammunition and Crafting
-All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, characters with the artisan background may craft ammunition.
+All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, characters with the artisan background or proficiency with tinker tools may craft ammunition.
 
 If materials are gathered, a character can craft ammunition themsevles using Tinker’s Tools at half the cost. Each firearm uses its own unique ammunition and is generally sold or crafted in batches listed below next to the price.
 

@@ -3,12 +3,20 @@ Adventurers can end up owning businesses that have nothing to do with delving in
 
 A character rolls percentile dice and adds the number of days spent on this downtime activity (maximum 30), then compares the total to the table below to determine what happens.
 
-If the character is required to pay a cost as a result of rolling on this table but fails to do so, the business begins to fail. For each unpaid debt incurred in this manner, the character takes a - 10 penalty to subsequent rolls made on this table.
+If the character is required to pay a cost as a result of rolling on this table but fails to do so, the business begins to fail. For each unpaid debt incurred in this manner, the character takes a -10 penalty to subsequent rolls made on this table.
 
-### Running a Business
+#### Maintenance Costs
+| Level | Cost Per Day |
+|-------------------|--------------|
+| Low               | 5 gp         |
+| Medium            | 20 gp        |
+| High              | 50 gp        |
+| Very High         | 100 gp       |
+
+#### Running a Business
 | d100 + Days | Result                                                                                                |
 |-------------|-------------------------------------------------------------------------------------------------------|
-| 01-20       | You must pay one and a halftimes the business's maintenance cost for each of the days.                |
+| 01-20       | You must pay one and a half times the business's maintenance cost for each of the days.                |
 | 21-30       | You must pay the business's full maintenance cost for each of the days.                               |
 | 31-40       | You must pay half the business's maintenance cost for each of the days. Profits cover the other half. |
 | 41-60       | The business covers its own maintenance cost for each of the days.                                    |
