@@ -6,10 +6,10 @@ Factions provide different benefits to adventurers they view as an asset to thei
 ![Assassin Contract](../references/images/assassin-contract.jpg)
 
 ### Order of the Lantern
-Primarily operating out of the Govern District, the Lanterns are comprised of individuals who advance through the City Watch and have proven their loyalty to the city. They are the peacekeepers and defenders of Gadgetzan. Lately, with the influence of more dubious parties in Gadgetzan, even these, normally honest, paragons of duty have seen their morals tested by the temptations of coin.
+Primarily operating out of the Govern District, the Lanterns are comprised of individuals who advance through the City Watch and have proven their loyalty to the city. They are the peacekeepers and defenders of Gadgetzan. Lately, with the influence of more dubious parties in Gadgetzan, even these normally honest paragons of duty have seen their morals tested by the temptations of coin.
 
 #### Leader
-**Utgur Platebane**, a dwarf, who grew up on the dangerous side of the Docks District. During his childhood he bore witness to just how savage people can be to one another when left with no choice. A natural born fighter, Utgur was quickly scouted by the City Watch at a young age. At first, he joined out of necessisty but soon embraced his new charge. Utgur brings swift justice to those that prey upon the weak and his reputation for doing so led him to ascending through the ranks of the City Watch and then that of the Order of the Lantern, until he became its leading flame.
+**Utgur Platebane**, a dwarf, who grew up on the dangerous side of the Docks District. During his childhood he bore witness to just how savage people can be to one another when left with no choice. A natural born fighter, Utgur was quickly scouted by the City Watch at a young age. At first, he joined out of necessisty but soon embraced his new charge. Utgur brings swift justice to those that prey upon the weak and his reputation for doing so led him to ascending through the ranks of the City Watch, and then that of the Order of the Lantern, until he became its leading flame.
 
 #### Goals
 Defenders of order and a bastion of light in the darkness, the Order of the Lantern seeks to eradicate all evil and corruption they see, whatever the costs.

@@ -8,23 +8,23 @@ Firearms are a new and volatile technology, and as such bring their own unique s
 
 **Explosive.** Upon a hit, everything within 5 ft of the target must make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 fire damage. If the weapon misses, the ammunition fails to detonate, or bounces away harmlessly before doing so.
 
-#### Firearms
-| Name            | Cost    | Damage        | Range     | Properties                      |
-|-----------------|---------|---------------|-----------|---------------------------------|
-| Pistol          | 150g    | 1d10 piercing | (60/240)  | Reload 4, misfire 1             |
-| Bolt Rifle      | 300g    | 1d12 piercing | (120/480) | Two-handed, reload 1, misfire 2 |
-| Repeating Rifle | 400g    | 1d10 piercing | (80/320)  | Two-handed, reload 6, misfire 2 |
-| Blunderbuss     | 300g    | 2d8 piercing  | (15/60)   | Reload 1, misfire 2             |
-| Hand Mortar     | Crafted | 2d8 fire      | (30/60)   | Reload 1, misfire 3, explosive  |
+#### Firearm Properties
+| Name            | Damage        | Range     | Properties                      |
+|-----------------|---------------|-----------|---------------------------------|
+| Pistol          | 1d10 piercing | (60/240)  | Reload 4, misfire 1             |
+| Bolt Rifle      | 1d12 piercing | (120/480) | Two-handed, reload 1, misfire 2 |
+| Repeating Rifle | 1d10 piercing | (80/320)  | Two-handed, reload 6, misfire 2 |
+| Blunderbuss     | 2d8 piercing  | (15/60)   | Reload 1, misfire 2             |
+| Hand Mortar     | 2d8 fire      | (30/60)   | Reload 1, misfire 3, explosive  |
 
-#### Weights
-| Name            | Weight |
-|-----------------|--------|
-| Pistol          | 3 lb.  |
-| Bolt Rifle      | 10 lb. |
-| Repeating Rifle | 10 lb. |
-| Blunderbuss     | 10 lb. |
-| Hand Mortar     | 10 lb. |
+#### Firearm Misc Properties
+| Name            | Price   | Weight |
+|-----------------|---------|--------|
+| Pistol          | 150 gp  | 3 lb.  |
+| Bolt Rifle      | 300 gp  | 10 lb. |
+| Repeating Rifle | 400 gp  | 10 lb. |
+| Blunderbuss     | 300 gp  | 10 lb. |
+| Hand Mortar     | Crafted | 10 lb. |
 
 ### Ammunition and Crafting
 All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, characters with the artisan background or proficiency with tinker tools may craft ammunition.
