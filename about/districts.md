@@ -6,10 +6,10 @@ The city of Gadgetzan is organized into districts. Each district has its own his
 ### Govern District
 The Govern District is the heart and mind of Gadgetzan, if not its soul. It houses the city's military forces, courts, and government. Many other buildings in the district are given over to city business, including several courts for magisters and the barracks of the City Guard. So many of the districts's structures are offices and meeting halls for business owners, solicitors, publishers, and the like that the Govern District has the smallest resident population of all the districts.
 
-Also located within the Govern District is Blackstaff Tower, a squat black blot in the otherwise pretty ward. Humble though the edifice might be, looking at the place for too long can give you a queasy feeling and the sense that you are being watched- almost as if the tower itself has turned an unseen and wrathful eye upon you.
+Also located within the Govern District is Arcanum Tower, a squat black blot in the otherwise pretty ward. Humble though the edifice might be, looking at the place for too long can give you a queasy feeling and the sense that you are being watched- almost as if the tower itself has turned an unseen and wrathful eye upon you.
 
 #### Landmarks
-- **Blackstaff Tower** - A large and tall stone tower. Home to the current Archmage and training grounds for those with an aptitude for the arcane arts.
+- **Arcanum Tower** - A large and tall stone tower. Home to the current Magos and training grounds for those with an aptitude for the arcane arts.
 
 - **Castle Greymane** - Surrounded by high stone walls and located on top of a hill. It is the residence of the current mayor of Gadgetzan. A sizeable garrision is always stationed within the castle walls.
 
@@ -21,7 +21,7 @@ In the morning, servants spread out to knock on doors and begin their work. In t
 #### Landmarks
 - **Statue of the Automaton** - A large steel statue depicting a giant made of gears and iron plates. The monument represents the city's ingenuity and inventive nature.
 
-- **Library of Lady Lai** - A grand public library holding information on the cultures and histories of the world. Named after the Blackstaff who first established it as a means to help spread knowledge through the city.
+- **Library of Lady Lai** - A grand public library holding information on the cultures and histories of the world. Named after the Magos who first established it as a means to help spread knowledge through the city.
 
 ### Southern District
 One can indulge in the finest halfling food here, enjoy the best singers of Calishite music, and examine the most stunning works of dwarven crafting- but the first challenge is finding where these treats are housed. The Southern District has long been a district of laborers catering to travelers, so its folk have adopted the architectural custom of building homes and businesses above stables or around inn yards, near to where wagon trains are housed.

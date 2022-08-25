@@ -13,17 +13,17 @@ The ingenuity that made him such a feared pirated is now used to protect Gadgetz
 
 ### The Watchful Order of Magists
 ![Crystal Runner](../references/images/crystal-runner.jpg =200x){.float-right}
-Expect to be questioned at the gate, or when you register with a magister, regarding your ability to cast arcane magic. Wizards, sorcerers, and other arcane spellcasters who intend to stay in Gadgetzan for any length of time are required to register with the city, and will be strongly encouraged to join the Watchful Order of Magists, headed by the Blackstaff.
+Expect to be questioned at the gate, or when you register with a magister, regarding your ability to cast arcane magic. Wizards, sorcerers, and other arcane spellcasters who intend to stay in Gadgetzan for any length of time are required to register with the city, and will be strongly encouraged to join the Watchful Order of Magists, headed by the Magos.
 
 Members of the Watchful Order are expected to render service to the city when called upon, acting as temporary members of the City Watch. Their expertise often helps investigators determine whether magic was used to commit a crime in the city. Members can also expect to be tapped for assistance during and after fires, natural events that cause multiple casualties, or other nonmagical disasters.
 
 Members of the Watchful Order form a more or less sociable association in the city, working together to
 keep an eye on any spellcasters who opt not to join their guild.
 
-#### The Blackstaff
-Blackstaff is a name given to the archmage of Blackstaff tower and leader of the Watchful Order. The Blackstaff is responsible for the organization of Gadgetzan's magical defenses and the monitoring of unregistered magic users. The current holder of the title of Blackstaff is a young tiefling named, **Valtari Inrissa**.
+#### The Magos
+Magos is a name given to the archmage of Arcanum Tower and leader of the Watchful Order. The Magos is responsible for the organization of Gadgetzan's magical defenses and the monitoring of unregistered magic users. The current holder of the title of Magos is a young tiefling named, **Valtari Inrissa**.
 
-A prodigy of the arcane arts, Valtari was appointed Blackstaff when the original holder of the title, and her master, was slain in a magical accident. Inexperienced in the politics of Gadgetzan, Valtari relies heavily on Utgur Platebane, of the Order of the Lantern, for advice and support.
+A prodigy of the arcane arts, Valtari was appointed Magos when the original holder of the title, and her master, was killed in a magical accident. Inexperienced in the politics of Gadgetzan, Valtari relies heavily on Utgur Platebane, of the Order of the Lantern, for advice and support.
 
 ### City Watch
 You can recognize any member of the City Watch by the uniform: a red-and-goldenrod doublet and a tall steel helmet. Each typically carries a long truncheon, a shortshord, and a buckler. Because most citizens in Gadgetzan don't bear weapons, these tools prove a more than ample deterrent to criminal activity. Members of the Watch typically don't carry crossbows or other weapons to attack at range, but running from the Watch -though it may be a time-honored tradition for local miscreants- rarely works out for newcomers to the city. The Watch know the streets they patrol and that area's residents better than you do, even if you stay in Gadgetzan for ten seasons.

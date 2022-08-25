@@ -47,7 +47,5 @@ Let us not forget that no city in the world is as literate as Gadgetzan. Its lit
 
 Lastly, Gagetzan is a technological hub. All of these amenities are ony possible due to the people that live within its walls. With artisans, builders, inventors, and sorcerers from all walks of life rubbing shoulders together, it is no surprise that the lively city is home to all manner of inventions. From steam powered automobiles to the hydraulic smelters used by the crafting guilds, Gadgetzan's brilliant inventors are constantly crafting wonders that elevate the city and its citizenry to new heights!
 
-It is safe to say that anyone's stay in Gadgetzan will be an enjoyable and memorable one.
-
 ## Gadgetzan City Map
-![Map of Gadgetzan](references/images/map-gadgetzan.svg)
+![Map of Gadgetzan](references/images/map-gadgetzan.png)
