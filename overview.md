@@ -49,3 +49,4 @@ Lastly, Gagetzan is a technological hub. All of these amenities are ony possible
 
 ## Gadgetzan City Map
 ![Map of Gadgetzan](references/images/map-gadgetzan.png)
+[. . .](https://watabou.github.io/city-generator/?size=42&seed=792083550&greens=0&farms=0&citadel=1&urban_castle=1&plaza=0&temple=1&walls=1&shantytown=0&coast=1&river=0&gates=1&sea=0.8)
