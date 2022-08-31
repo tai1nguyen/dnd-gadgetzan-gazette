@@ -1,6 +1,6 @@
 #### Content
 - [Book Wyrm](#book-wyrm)
-- [Fala's Potent Potions](#falas-potent-potions)
+- [Potent Potions](#potent-potions)
 - [Odds and Ends](#odds-and-ends)
 - [Steam and Steel](#steam-and-steel)
 - [The Bent Nail](#the-bent-nail)
@@ -17,7 +17,7 @@ Like any busy port city, Gadgetzan is filled to the brim with all sorts of busin
 This general store is nothing more than a large warehouse. **Gil Moore**, a former mercenary turned merchant, runs this shop. Gil is a muscled from his years of service and is friendly towards all customers that visit his business. Gil has connections with a slew of peddlers, allowing him to keep his shop inventory full and varied. 
 
 #### Services
-At Odds and Ends, patrons can find almost all types of mundane adventuring gear. Occasionally, and for a limited time only, Gil will have in stock exotic weapons and armors procurred from his business connections.
+At Odds and Ends, patrons can find almost all types of mundane adventuring gear. Occasionally, and for a limited time only, Gil will have in stock exotic weapons and armors procured from his business connections.
 
 ### The Bent Nail [^](#content)
 A small wooden sign above this shop's main door is bare except for a large, bent nail sticking out of it. The front room contains displays of ornate wooden furniture, as well as a selection of bows and crossbows. The wall behind the counter is lined with rows of finely carved wooden canes, quarterstaffs, and shields. **Talisolvanar "Tally" Fellbranch**, the owner and chief artisan of the Bent Nail, is a male half-elf carpenter and woodcarver.
@@ -25,7 +25,7 @@ A small wooden sign above this shop's main door is bare except for a large, bent
 #### Services
 Tally sells wooden weapons and shields at normal cost. He also crafts and sells furniture and wood sculptures.
 
-### Fala's Potent Potions [^](#content)
+### Potent Potions [^](#content)
 **Fala Lefaliir**, an herbalist and a member of the Guild of Apothecaries and Physicians, operates out of this stately, three-story town house, the third floor of which has been converted into a greenhouse. Its translucent glass walls allow anyone on the street to see the rainbow of flowers blossoming within. Fala Lefaliir is an outgoing wood elf with long, braided hair.
 
 #### Services

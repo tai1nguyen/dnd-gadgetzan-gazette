@@ -1,10 +1,10 @@
 ## Conflicts
 ![Secretkeeper](../references/images/secretkeeper.jpg =250x){.float-right}
-With the influx of traders, merchants and businessmen both respectable and otherwise, as well as the daily arrival of more fortune-seekers, Gadgetzan has never been more lively. Of course, this uptick in activity hasn’t been without its downsides. Rival organizations now battle for control of the city, with the two biggest offenders being the Guild of Dungeoneers and the Dark Talons.
+With the influx of traders, merchants and businessmen both respectable and otherwise, Gadgetzan has never been more lively. Of course, this uptick in activity hasn’t been without its downsides. Rival organizations now battle for control of the city, with the two biggest offenders being the Guild of Dungeoneers and the Dark Talons.
 
-Normally conflicts would have been resolved non-violently, as bloodshed only hinder both party's abilities, but lately their clashes have been more brazen and expansive. No one is quite sure what sparked the dispute between the two organizations but the feud is only deepening.
+Normally conflicts between criminal organization such as these would have been resolved non-violently and within the shadows as open bloodshed only hinder both party's abilities to operate discreetly. However, lately their clashes have been more brazen and expansive. No one is quite sure what sparked the dispute between the two organizations but the feud is only deepening.
 
-In response, the City Watch is doing whatever it can to stop the volience and protect the people. To help combat this issue and save Gadgetzan's public image, the Watch has called upon the Order of the Lantern to root out this corruption.
+The City Watch, in response to this mounting cavalcade of violence, has called upon the iron fists of the Order of the Lantern. With the city's reputation and the lives of its citizens on the line, Gadgetzan officals are pulling no punches as they wrestle control back from the warring criminals.
 
 ### The Three Sides at War
 All three factions involved in the power struggle for Gadgetzan, the Dungeoneers, the Talons and the Lanterns, go about it in different ways.

@@ -5,9 +5,9 @@
 - [Order of the Lantern](#order-of-the-lantern)
 
 ## Factions
-Various factions have roots in Gadgetzan. Each faction vying for more power and influence over the direction of the city's development. Every organization in Gadgetzan can conflict with one another or work together towards a signular goal.
+Various factions have roots in Gadgetzan. Each faction vying for more power and influence over the direction of the city's development. Every organization in Gadgetzan may conflict with one another or work together towards a singular goal.
 
-Factions provide different benefits to adventurers they view as an asset to their cause. You decide the extent to which a faction will assist the adventurers, based on each faction's perception of how important or valuable the adventurers are.
+Characters living in Gadgetzan are free to join which ever factions they fancy. Each Faction provides different benefits to adventurers they view as an asset to their cause. You decide the extent to which a faction will assist the adventurers, based on each faction's perception of how important or valuable the adventurers are.
 
 ![Assassin Contract](../references/images/assassin-contract.jpg)
 

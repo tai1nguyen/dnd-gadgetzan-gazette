@@ -2,14 +2,16 @@
 ![Gavel](../references/images/gavel.jpg =200x){.float-right}
 Gadgetzan is no village led by hidebound hierarchs or petty fiefdom ruled by the whim of a warlord. It is a city of laws molded by the spirit of justice. As a rule, you can trust members of the City Watch to do their duty diligently, and you can expect that the city's magisters will be fair. If you have cause to come before the Masked Lords or the reigning Mayor, rest assured that if your cause be just, justice will be done. If, however, you find yourself in the wrong, know that though it might take time to weigh that wrong, the hammer of justice will fall- and it will be wielded by Gadgetzan with a vengeance.
 
-Individuals accustomed to the rough-and-tumble life in much of the North are often surprised by the fact that Gedgetzans go about unarmed and unarmored. Yet Gadgetzan doesn't have any law that forbids carrying weapons or armor. Instead, it has a culture of civility that makes such behavior unnecessary.
+Individuals accustomed to the rough-and-tumble life in much of the North are often surprised by the fact that Gadgetzans go about unarmed and unarmored. Yet Gadgetzan doesn't have any law that forbids carrying weapons or armor. Instead, it has a culture of civility that makes such behavior unnecessary.
 
 Businesses and individuals do employ armed guards, but except for nobles or foreign envoys, few people travel about the city with such protection. As such, the sight of armed and armored individuals walking the streets who aren't in the livery of the city or one of its noble houses inspires caution in most Gadgetzans. Folk assume that you wouldn't bother lugging around such equipment unless you either intend violence or expect that it might soon be visited upon you.
 
 #### The Mayor of Gadgetzan
 The Mayor of Gadgetzan is elected from the citizenry and operates with the city's best interests in mind. Residing in the imposing Castle Greymane, located within the Govern District, the current reigning mayor is a freebooter goblin named **Gobbo Greenskin**.
 
-The ingenuity that made him such a feared pirated is now used to protect Gadgetzen and its interests. Gobbo employs spies to track newcomers in the mighty city and those who are seen taking steps to put the wellbeing of the city before their own are often times rewarded. 
+In the past, Gobbo was a feared pirate that stalked the coastlines with his band of cutthroats. The flag his ships sailed under striked fear in all those who crossed his path. The ingenuity he had employed in his past is now being wielded to protect Gadgetzen and its interests.
+
+In addition to the City Watch, Gobbo also employs spies to track newcomers in the mighty city and those who are seen taking steps that put the wellbeing of the city before their own are often times rewarded with a visit from the illustrious mayor. Those who seek to harm the peace and saftey offered by Gadgetzan often times become wanted fugitives within the city's walls, well before they can act on their destructive impluses.
 
 ### The Watchful Order of Magists
 ![Crystal Runner](../references/images/crystal-runner.jpg =200x){.float-right}
@@ -17,7 +19,7 @@ Expect to be questioned at the gate, or when you register with a magister, regar
 
 Members of the Watchful Order are expected to render service to the city when called upon, acting as temporary members of the City Watch. Their expertise often helps investigators determine whether magic was used to commit a crime in the city. Members can also expect to be tapped for assistance during and after fires, natural events that cause multiple casualties, or other nonmagical disasters.
 
-Members of the Watchful Order form a more or less sociable association in the city, working together to
+Members of the Watchful Order form a, more or less, sociable association in the city, working together to
 keep an eye on any spellcasters who opt not to join their guild.
 
 #### The Magos

@@ -1,17 +1,17 @@
 # Introduction
 ![Gadgetzan Gazette](references/images/gadgetzan-gazette.jpg =200x){.float-right}
-Rising out of the northern deserts, a vibrant city, stands against the blistering heat. Gagetzan is the capital of business and trade to artisans and merchants of any race.
+Rising out of the northern deserts, a vibrant city, stands against the blistering heat. Gagetzan is the capital of business and trade to artisans and merchants everywhere.
 
 Some of the best engineers, miners, and alchemists ply their trade here. The people here believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any large-scale conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan.
 
-The **Gadgetzan Gazette** campaign module provides information and reference material for running a game in the busy desert city of Gadgetzan. Characters adventuring through it will have to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the riff and rabble or become an enemy of one of the ruling gangs. Anything is possible in Gadgetzan, the City of Opportunity.
+The **Gadgetzan Gazette** module provides information and reference material for running a game in the busy desert city of Gadgetzan. Characters adventuring through it will have to navigate the city's tumultuous environment. Maybe they'll make a name for themselves amongst the riff and rabble or become an enemy of one of the ruling gangs. Anything is possible in Gadgetzan, the City of Opportunity.
 
 ## Background
 The bustling town of Gadgetzan has ushered in a new era of trade, but the city’s success has led to its unfortunate occupation by some rather unruly denizens, each with their own agendas. Criminal organizations and crime families alike vie with the City Watch for control of the streets, each led by a powerful figurehead pulling the strings from the shadows.
 
 Nestled deep in the desert, the port town of Gadgetzan was a haven for shady dealings and rule-bending trade, its locals and visitors showing no favoritism toward any government body outside its own.
 
-With the construction of its new port, trade boomed in Gadgetzan. The influx of trade stuffed the coffers of those on the ground floor of the development of new Gadgetzan. Everyone who was anyone wanted a piece of the action, using all the tricks up their sleeves to get the upper hand. Organized crime developed as the power struggle began to grow in the now bustling Gadgetzan—it was no longer the sleepy city it once was!
+With the construction of its new port, trade boomed in Gadgetzan. The influx of trade stuffed the coffers of those on the ground floor of the development of new Gadgetzan. Everyone who was anyone wanted a piece of the action, using all the tricks up their sleeves to get the upper hand. Organized crime developed as the power struggle began to grow in the now bustling Gadgetzan!
 
 ## Life in Gadgetzan
 City-based adventures can be challenging to run. especially if your player characters are inclined to wander. Keeping the characters in Gadgetzan, where the action is, requires that they feel at home. To that end, here are some points to keep in mind:
@@ -28,7 +28,7 @@ Gadgetzan is a city of firm laws and swift justice. Adventurers hell-bent on sla
 
 Characters who overtly engage in criminal behavior are quickly cornered and arrested by members of the City Watch. Those charged with committing a crime are brought before a magister to be judged. Advocates might intercede on behalf of the characters if they have allied themselves with influential NPCs and factions.
 
-Gadgetzan has a growing crime problem and, as such, its laws are strictly enforced. It's possible that the adventure could end with one or more of the characters being exiled, sentenced to several years of hard labor, imprisoned, or put to death. If that's how their adventure ends, so be it. Hopefully, your next group will fare better.
+Crime in Gadgetzan is growing problem, as such, its laws are strictly enforced. It's possible that the adventure could end with one or more of the characters being exiled, sentenced to several years of hard labor, imprisoned, or put to death. If that's how their adventure ends, so be it. Hopefully, your next group will fare better.
 
 ### Getting About
 Gadgetzan is a city of broad boulevards that thrum with traffic. All day and well into the night, a bewildering melee of wagons, carts, horse and pony riders, carriages, buggies, hire-coaches, and automobiles surge through its major thoroughfares. Fortunately, most roads are flanked by paved sidewalks that give pedestrians plenty of space, and most of the widest roads have raised dividers that allow an individual crossing a street a safe space to step out of the fray and wait for traffic to pass.
